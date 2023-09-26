@@ -1,0 +1,5 @@
+1. Entrar como CMD
+2. python -m venv {opcao} 
+3.pip install opencv-python
+4.pip install pillow
+5.python openCv.py
